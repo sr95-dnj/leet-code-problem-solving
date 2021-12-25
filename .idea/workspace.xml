@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95fad22-1b00-49fb-aa83-b228da62a276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/ConcatationArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/RunningSumOfOneDArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ConcatationArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/RunningSumOfOneDArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="30" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -74,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/IntPalindrome.java" />
         <option value="$PROJECT_DIR$/src/leetcode/StringSuffle.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ConcatationArray.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RunningSumOfOneDArray.java" />
       </list>
     </option>
   </component>
@@ -140,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConcatationArray">
+  <component name="RunManager" selected="Application.RunningSumOfOneDArray">
     <configuration name="ConcatationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.ConcatationArray" />
       <module name="Leet_Code_Problem_Solving" />
@@ -156,6 +166,19 @@
     </configuration>
     <configuration name="IntPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.IntPalindrome" />
+      <module name="Leet_Code_Problem_Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunningSumOfOneDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.RunningSumOfOneDArray" />
       <module name="Leet_Code_Problem_Solving" />
       <extension name="coverage">
         <pattern>
@@ -195,6 +218,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunningSumOfOneDArray" />
         <item itemvalue="Application.ConcatationArray" />
         <item itemvalue="Application.StringSuffle" />
         <item itemvalue="Application.TwoSum" />
@@ -216,7 +240,7 @@
       <workItem from="1640103962470" duration="783000" />
       <workItem from="1640147147607" duration="332000" />
       <workItem from="1640193239978" duration="2013000" />
-      <workItem from="1640414854653" duration="2649000" />
+      <workItem from="1640414854653" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1640104103718</created>
@@ -232,11 +256,18 @@
       <option name="project" value="LOCAL" />
       <updated>1640195369870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="concatation of an array">
+      <created>1640417620828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640417620828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6273000" />
+    <option name="totallyTimeSpent" value="7454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -281,7 +312,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="shuffle string" />
-    <option name="LAST_COMMIT_MESSAGE" value="shuffle string" />
+    <MESSAGE value="concatation of an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="concatation of an array" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -315,8 +347,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ConcatationArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="255">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RunningSumOfOneDArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="30" selection-end-column="7" />
         </state>
       </provider>
     </entry>
