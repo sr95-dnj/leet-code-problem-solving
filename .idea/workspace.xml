@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95fad22-1b00-49fb-aa83-b228da62a276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/DefangingIPAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicateElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/AddTwoNumber_O_N_solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leet_Code_Problem_Solving.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/StringSuffle.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -75,6 +64,19 @@
               <folding>
                 <element signature="e#93#94#0" expanded="true" />
                 <element signature="e#141#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/AddTwoNumber_O_N_solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -106,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveDuplicateElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -148,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/DefangingIPAddress.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/src/leetcode/RemoveDuplicateElement.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/AddTwoNumber_O_N_solution.java" />
       </list>
     </option>
   </component>
@@ -340,7 +343,7 @@
       <workItem from="1640147147607" duration="332000" />
       <workItem from="1640193239978" duration="2013000" />
       <workItem from="1640414854653" duration="8228000" />
-      <workItem from="1640530583849" duration="2489000" />
+      <workItem from="1640530583849" duration="4776000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1640104103718</created>
@@ -384,16 +387,37 @@
       <option name="project" value="LOCAL" />
       <updated>1640533070990</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Remove Duplicates">
+      <created>1640533105268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640533105268</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Defanging Ip Address">
+      <created>1640533140317</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640533140317</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Remove Duplicate Element">
+      <created>1640533173378</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1640533173378</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14341000" />
+    <option name="totallyTimeSpent" value="16628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10330912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10330912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -407,7 +431,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3290441" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3290441" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -436,7 +460,10 @@
     <MESSAGE value="1d array sum" />
     <MESSAGE value="Reverse Integer" />
     <MESSAGE value="ReverseAnArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseAnArray" />
+    <MESSAGE value="Remove Duplicates" />
+    <MESSAGE value="Defanging Ip Address" />
+    <MESSAGE value="Remove Duplicate Element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicate Element" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -526,14 +553,14 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveDuplicateElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -544,6 +571,17 @@
           <folding>
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/AddTwoNumber_O_N_solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
           </folding>
         </state>
       </provider>
