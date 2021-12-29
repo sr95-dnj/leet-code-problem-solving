@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95fad22-1b00-49fb-aa83-b228da62a276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/MostWordFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SearchInsertPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,19 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-              <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/AddTwoNumber_O_N_solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode/ImplementStrStr.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="57" column="27" lean-forward="true" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+              <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
               <folding>
                 <element signature="e#94#95#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
@@ -61,11 +48,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/MostWordFound.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="241">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/LengthLastWord.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ImplementStrStr.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MostWordFound.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SearchInsertPosition.java" />
       </list>
     </option>
   </component>
@@ -236,7 +237,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Stream-Api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Map-FlatMap/map-flatmap" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -257,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MostWordFound">
+  <component name="RunManager" selected="Application.SearchInsertPosition">
     <configuration name="DevidedTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.DevidedTwoIntegers" />
       <module name="Leet_Code_Problem_Solving" />
@@ -310,8 +311,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.RemoveDuplicateElement" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SearchInsertPosition" />
       <module name="Leet_Code_Problem_Solving" />
       <extension name="coverage">
         <pattern>
@@ -325,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.MostWordFound" />
         <item itemvalue="Application.ImplementStrStr" />
         <item itemvalue="Application.LengthLastWord" />
         <item itemvalue="Application.DevidedTwoIntegers" />
-        <item itemvalue="Application.RemoveDuplicateElement" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +351,7 @@
       <workItem from="1640414854653" duration="8228000" />
       <workItem from="1640530583849" duration="4776000" />
       <workItem from="1640618569526" duration="5916000" />
-      <workItem from="1640663756368" duration="2459000" />
+      <workItem from="1640663756368" duration="5721000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1640104103718</created>
@@ -436,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1640709600352</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="find longest sentence">
+      <created>1640710282700</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1640710282700</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25003000" />
+    <option name="totallyTimeSpent" value="28265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -495,7 +503,8 @@
     <MESSAGE value="Add tow number" />
     <MESSAGE value="length last word" />
     <MESSAGE value="implement strStr" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement strStr" />
+    <MESSAGE value="find longest sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="find longest sentence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -650,7 +659,7 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode/ImplementStrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="57" column="27" lean-forward="true" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
           <folding>
             <element signature="e#94#95#0" expanded="true" />
             <element signature="e#130#131#0" expanded="true" />
@@ -660,8 +669,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/MostWordFound.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="241">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
