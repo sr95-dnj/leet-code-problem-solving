@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95fad22-1b00-49fb-aa83-b228da62a276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/PlusOneArrayLastIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/HappyNewYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,32 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/ImplementStrStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="686">
-              <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-              <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/MostWordFound.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/StringToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -80,11 +58,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/PlusOneArrayLastIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="336">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/AddBinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/HappyNewYear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -150,15 +146,16 @@
         <option value="$PROJECT_DIR$/src/leetcode/ImplementStrStr.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MostWordFound.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SearchInsertPosition.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/HappyNewYear.java" />
         <option value="$PROJECT_DIR$/src/leetcode/StringToInteger.java" />
         <option value="$PROJECT_DIR$/src/leetcode/PlusOneArrayLastIndex.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/AddBinary.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/HappyNewYear.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1227" />
     <option name="height" value="1032" />
   </component>
@@ -255,9 +252,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PlusOneArrayLastIndex">
-    <configuration name="HappyNewYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.HappyNewYear" />
+  <component name="RunManager" selected="Application.AddBinary">
+    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddBinary" />
       <module name="Leet_Code_Problem_Solving" />
       <extension name="coverage">
         <pattern>
@@ -269,8 +266,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostWordFound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MostWordFound" />
+    <configuration name="HappyNewYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.HappyNewYear" />
       <module name="Leet_Code_Problem_Solving" />
       <extension name="coverage">
         <pattern>
@@ -323,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddBinary" />
         <item itemvalue="Application.PlusOneArrayLastIndex" />
         <item itemvalue="Application.StringToInteger" />
         <item itemvalue="Application.HappyNewYear" />
         <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.MostWordFound" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +346,7 @@
       <workItem from="1640530583849" duration="4776000" />
       <workItem from="1640618569526" duration="5916000" />
       <workItem from="1640663756368" duration="6908000" />
-      <workItem from="1640958409662" duration="3765000" />
+      <workItem from="1640958409662" duration="6716000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1640104103718</created>
@@ -449,17 +446,24 @@
       <option name="project" value="LOCAL" />
       <updated>1640792868779</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="plus one problem solve">
+      <created>1640969879835</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640969879835</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33217000" />
+    <option name="totallyTimeSpent" value="36168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1299435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1299435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -468,12 +472,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2591912" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09375" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24264705" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.17115384" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.05514706" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3290441" />
@@ -510,7 +514,8 @@
     <MESSAGE value="implement strStr" />
     <MESSAGE value="find longest sentence" />
     <MESSAGE value="search insert position" />
-    <option name="LAST_COMMIT_MESSAGE" value="search insert position" />
+    <MESSAGE value="plus one problem solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="plus one problem solve" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,13 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/HappyNewYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/ImplementStrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="686">
@@ -711,8 +709,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/PlusOneArrayLastIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="336">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/AddBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/HappyNewYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
